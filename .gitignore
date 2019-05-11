@@ -1,2 +1,6 @@
-input
 *.exe
+*.in
+*.out
+*.zip
+input.txt
+output.txt
